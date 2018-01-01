@@ -1,2 +1,3 @@
-# cydia-headers
-Headers for Cydia
+# Cydia Headers
+
+Easier to keep pulling fresh copies
